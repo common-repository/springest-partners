@@ -1,0 +1,149 @@
+/* Springest styling */
+.springest-button {
+    float: right;
+    width: 200px;
+}
+
+.springest-training {
+    float: left;
+    width: 100%;
+    clear: both;
+}
+.springest-training-actions {
+    float: left;
+    width: 100%;
+    margin: 20px 0;
+    padding: 5px 0;
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+} 
+.springest-training-actions a {
+    float: left;
+    display: block;
+    margin: 0 20px 0 0;
+    line-height: 31px;
+}
+.springest-button:hover {
+}
+.springest-button button {
+    float: right;
+    width: 100%;
+}
+.springest-button:hover button { 
+}
+.springest-training-properties {
+    float: left;
+    width: 380px !important;
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+.springest-training-image {
+    float: right; margin: 0;
+}
+.springest-training-properties td {
+    background: #eaeaea;
+    margin: 2px 0 0 2px;
+    padding: 4px;
+    border: solid 2px #fff;
+    vertical-align: top;
+}
+.springest-training-properties th {
+    background: #f5f5f5;
+    margin: 2px 0 0 0;
+    padding: 4px;
+    border: solid 2px #fff;
+    text-align: left;
+    font-weight: normal;
+    vertical-align: top;
+}
+.springest-training-content {
+    float: left;
+    width: 100%;
+}
+.springest-credits {
+    color: #999;
+    width: 190px;
+    float: left;
+    clear: both;
+    margin: 40px 0 0 0;
+    line-height: 32px;
+}
+.springest-credits img {
+    float: right;
+}
+
+/* Springest breadcrumbs */
+.springest-breadcrumbs {
+    margin: 0 0 20px 0;
+    color: #888;
+}
+.springest-breadcrumbs a {
+    color: #888;
+}
+
+/* Springest Search */
+.springest-search-form {
+    float: left;
+    margin: 21px 0 20px 0;
+}
+
+.springest-search-form label {
+    width: 150px;
+    float: left;
+    display: block;
+    margin: 0;
+    line-height: 27px;
+    font-weight: bold;
+}
+.springest-search-field {
+    margin: 2px 0 0 0;
+    height: 27px;
+    float: left;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    border: solid 1px #d6d6d6;
+    background: #fff;
+    line-height: 27px;
+    float: left;
+    width: 346px;
+    padding: 0 5px;
+    color: #000;
+}
+
+.springest-search-submit {
+}
+.springest-search-submit:hover {
+
+}
+
+/* Springest widget */
+.widget_springest ul {
+    border-top: solid 1px #e1e1e1;
+    float: left;
+    width: 100%;
+    margin: 8px 0 0 0;
+}
+.widget_springest ul li {
+ 
+    float: left;
+    width: 100%;
+    clear: both;
+ } 
+.widget_springest a {
+    color: #000;
+    font-weight: bold;
+}
+.widget_springest a:hover {
+    color: #cb0003;
+}
+.widget_springest label {
+    font-size: 12px;
+    font-weight: normal;
+}
+.widget_springest .springest-search-form {
+    margin: 10px 0 0 0;
+}
+.widget_springest .springest-search-field {
+    width: 256px;
+}

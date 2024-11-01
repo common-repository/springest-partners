@@ -1,0 +1,16 @@
+.SA_selected_search_strings { width: 60%; background: #fff; border: 1px solid #dedede; height: 300px; }
+.SA_search_string_list { overflow-y: auto; }
+.SA_search_string_list li { padding: 4px 7px 2px; margin: 0; border-bottom: 1px solid #f1f1f1; }
+.SA_search_string_list li:nth-child(even) { background: #F7F7F7; }
+#SA_description { width: 80%; height: 100px; }
+#SA_description_parent { float: left; width: 80%; border: 1px solid #DFDFDF; }
+p.SA_empty { padding: 0 5px; color: #888; }
+.SA_remove_search_string { float: right; color: #ff0000; width: 10px; outline: none; overflow: hidden; position: relative; }
+.SA_remove_search_string:hover img { margin: 0 -10px 0 0; position: relative; left: -10px; }
+.SA_base_page { width: 250px; margin: 0 10px 0 0; }
+#wp-sa_description-wrap { margin: -25px 0 0 0; }
+#SA_new_search_string_name,
+#SA_new_search_string_value { width: 60%; }
+.ui-autocomplete { background: #fff; width: 350px; border: 1px solid #e1e1e1; }
+.ui-autocomplete .ui-state-hover { background: #f1f1f1; border-top: 1px solid #e1e1e1; border-bottom: 1px solid #e1e1e1; }
+.ui-autocomplete a { display: block; padding: 3px 10px; border-top: 1px solid #fff; border-bottom: 1px solid #fff; cursor: pointer; }

@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Springest 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-25 13:20+0100\n"
+"PO-Revision-Date: 2012-06-25 14:29+0100\n"
+"Last-Translator: Bastiaan van Dreunen <bastiaan@superinteractive.com>\n"
+"Language-Team: Bastiaan van Dreunen <bastiaan@superinteractive.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners\n"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:13
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:17
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:8
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:9
+msgid "Springest"
+msgstr "Springest"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:17
+msgid "Springest Settings"
+msgstr "Springest Settings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:68
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:112
+msgid "WARNING"
+msgstr "WARNING"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:68
+msgid "API key and/or API URL <strong>invalid</strong>."
+msgstr "API key and/or API URL <strong>invalid</strong>."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:114
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:126
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:302
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:451
+msgid "Edit Springest settings"
+msgstr "Edit Springest settings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:129
+#, fuzzy
+msgid "Edit Springest groups"
+msgstr "Edit Springest group: "
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:134
+#, fuzzy
+msgid "Springest API"
+msgstr "Springest API key"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:149
+msgid "Springest API key"
+msgstr "Springest API key"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:153
+msgid "Trainings per page"
+msgstr "Trainings per page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:163
+msgid "Display search queries / subjects on trainings overview page"
+msgstr "Display search queries / subjects on trainings overview page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:165
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:172
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:179
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:186
+msgid "Yes"
+msgstr "Yes"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:166
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:173
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:180
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:187
+msgid "No"
+msgstr "No"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:170
+msgid "Automatically display Springest search box"
+msgstr "Automatically display Springest search box"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:177
+msgid "Automatically display breadcrumbs"
+msgstr "Automatically display breadcrumbs"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:184
+msgid "Load default Springest CSS"
+msgstr "Load default Springest CSS"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:191
+msgid "Springest Base Page"
+msgstr "Springest Base Page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:196
+msgid "Select page..."
+msgstr "Select page..."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:204
+msgid "Add new page"
+msgstr "Add new page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:206
+#, fuzzy
+msgid "View base page"
+msgstr "Springest Base Page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:211
+msgid "Taxonomies for relations"
+msgstr "Taxonomies for relations"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:226
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:434
+msgid "Save changes"
+msgstr "Save changes"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:282
+msgid "Edit Springest group: "
+msgstr "Edit Springest group: "
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:285
+msgid "Add new Springest group"
+msgstr "Add new Springest group"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:289
+msgid "New group created"
+msgstr "New group created"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:292
+msgid "Group settings saved"
+msgstr "Group settings saved"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:302
+msgid "Back to groups overview"
+msgstr "Back to groups overview"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:305
+msgid "group_edit_explanation"
+msgstr "Here you can edit the group: make sure you provide a descriptive title and an informative description to optimize your page for search engines."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:314
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:460
+msgid "Name"
+msgstr "Name"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:320
+msgid "Slug"
+msgstr "Slug"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:326
+msgid "Description"
+msgstr "Description"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:363
+#, fuzzy
+msgid "Add new search string"
+msgstr "Add new page"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:365
+msgid "Please provide a title for your search string, and some words to search on"
+msgstr ""
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:367
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:88
+msgid "Title"
+msgstr "Title"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:369
+msgid "e.g. \"Web development\""
+msgstr "e.g. \"Web development\""
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:373
+#, fuzzy
+msgid "Search string"
+msgstr "Search trainings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:375
+msgid "e.g. \"HTML CSS PHP WordPress\""
+msgstr "e.g. \"HTML CSS PHP WordPress\""
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:381
+#, fuzzy
+msgid "Add search string"
+msgstr "Search trainings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:385
+#, fuzzy
+msgid "Search strings in this group"
+msgstr "Search trainings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:391
+msgid "remove"
+msgstr "remove"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:400
+msgid "This group does not contain any search strings"
+msgstr "This group does not contain any search strings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:412
+msgid "Related"
+msgstr "Related"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:425
+#, php-format
+msgid "No %s available"
+msgstr "No %s available"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:449
+msgid "Springest groups"
+msgstr "Springest groups"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:449
+msgid "Add new"
+msgstr "Add new"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:479
+msgid "Are you sure you want to delete this group?"
+msgstr "Are you sure you want to delete this group?"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:481
+#, fuzzy
+msgid "delete"
+msgstr "Related"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest-admin.php:490
+msgid "No groups"
+msgstr "No groups"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest.php:36
+msgid "the Netherlands"
+msgstr "the Netherlands"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest.php:41
+msgid "Belgium, Dutch"
+msgstr "Belgium, Dutch"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest.php:46
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/springest.php:51
+msgid "Germany"
+msgstr "Germany"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestApi.inc.php:102
+msgid "Unknown error"
+msgstr "Unknown error"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestApi.inc.php:147
+msgid "No categories found"
+msgstr "No categories found"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:112
+msgid "It appears you do not have any transfer methods available to reach the Springest API. Please set \"allow_url_fopen\" to \"On\" in your php.ini settings, or use the PHP cURL extension."
+msgstr ""
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:128
+msgid "Please log in as an admin to use this feature."
+msgstr "Please log in as an admin to use this feature."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:288
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:299
+#, php-format
+msgid "Searched for %s"
+msgstr "Searched for %s"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:293
+#, fuzzy, php-format
+msgid "Search for \"%s\""
+msgstr "Searched for %s"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:326
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:67
+msgid "Search trainings"
+msgstr "Search trainings"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:330
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:71
+msgid "Search"
+msgstr "Search"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:485
+msgid "<strong>Warning:</strong> You need to <a href=\"options-general.php?page=springest-settings\">select the base page for your Springest installation</a>."
+msgstr "<strong>Warning:</strong> You need to <a href=\"options-general.php?page=springest-settings\">select the base page for your Springest installation</a>."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:590
+msgid "Find and compare training programmes and courses - Springest"
+msgstr "Find and compare training programmes and courses - Springest"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestHelper.inc.php:591
+#, php-format
+msgid "In cooperation with <a href=\"%s\">%s</a>"
+msgstr "In cooperation with <a href=\"%s\">%s</a>"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:32
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:107
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:113
+msgid "Total time: "
+msgstr "Total time: "
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:35
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:110
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:116
+msgid "Level: "
+msgstr "Level: "
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:38
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:113
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:119
+msgid "Rating: "
+msgstr "Rating: "
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:38
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:113
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:119
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:78
+msgid "1 review"
+msgstr "1 review"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:38
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:113
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:119
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:78
+#, php-format
+msgid "%d reviews"
+msgstr "%d reviews"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:54
+msgid "Your search did not match any results."
+msgstr "Your search did not match any results."
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:99
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:147
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:153
+msgid "Previous"
+msgstr "Previous"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearch.inc.php:103
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSearchString.inc.php:151
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestSubject.inc.php:157
+msgid "Next"
+msgstr "Next"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:34
+#, fuzzy
+msgid "1 day"
+msgstr "days"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:34
+#, fuzzy, php-format
+msgid "%s days"
+msgstr "days"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:50
+msgid "Institute"
+msgstr "Institute"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:54
+msgid "Price"
+msgstr "Price"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:59
+msgid "Level"
+msgstr "Level"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:65
+msgid "Max. participants"
+msgstr "Max. participants"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:71
+msgid "Total time"
+msgstr "Total time"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:77
+msgid "Rating"
+msgstr "Rating"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:86
+msgid "More information"
+msgstr "More information"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestTraining.inc.php:89
+msgid "Request information"
+msgstr "Request information"
+
+#: /Users/superinteractive/Sites/springest.dev/www/wp-content/plugins/springest-partners/inc/SpringestWidget.inc.php:89
+msgid "Display search box"
+msgstr "Display search box"
+
+#~ msgid "DEFAULT_API_URL"
+#~ msgstr "DEFAULT_API_URL"
+
+#~ msgid "Springest API URL"
+#~ msgstr "Springest API URL"
+
+#~ msgid "Add subjects"
+#~ msgstr "Add subjects"
+
+#~ msgid "Select a course category..."
+#~ msgstr "Select a course category..."
+
+#~ msgid "Course subjects"
+#~ msgstr "Course subjects"
+
+#~ msgid "No subjects selected"
+#~ msgstr "No subjects selected"

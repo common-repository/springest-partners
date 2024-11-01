@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Springest 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-24 12:04+0100\n"
+"PO-Revision-Date: 2012-06-25 13:58+0100\n"
+"Last-Translator: Bastiaan van Dreunen <bastiaan@superinteractive.com>\n"
+"Language-Team: Bastiaan van Dreunen <bastiaan@superinteractive.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin\n"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:13
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:17
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:8
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:9
+msgid "Springest"
+msgstr "Springest"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:17
+msgid "Springest Settings"
+msgstr "Springest Settings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:64
+msgid "WARNING"
+msgstr "WARNING"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:64
+msgid "API key and/or API URL <strong>invalid</strong>."
+msgstr "API key and/or API URL <strong>invalid</strong>."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:111
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:123
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:296
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:444
+msgid "Edit Springest settings"
+msgstr "Edit Springest settings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:126
+#, fuzzy
+msgid "Edit Springest groups"
+msgstr "Edit Springest group: "
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:131
+#, fuzzy
+msgid "Springest API"
+msgstr "Springest API key"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:146
+msgid "Springest API key"
+msgstr "Springest API key"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:150
+msgid "Trainings per page"
+msgstr "Trainings per page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:160
+msgid "Display search queries / subjects on trainings overview page"
+msgstr "Display search queries / subjects on trainings overview page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:162
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:169
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:176
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:183
+msgid "Yes"
+msgstr "Yes"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:163
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:170
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:177
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:184
+msgid "No"
+msgstr "No"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:167
+msgid "Automatically display Springest search box"
+msgstr "Automatically display Springest search box"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:174
+msgid "Automatically display breadcrumbs"
+msgstr "Automatically display breadcrumbs"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:181
+msgid "Load default Springest CSS"
+msgstr "Load default Springest CSS"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:188
+msgid "Springest Base Page"
+msgstr "Springest Base Page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:193
+msgid "Select page..."
+msgstr "Select page..."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:201
+msgid "Add new page"
+msgstr "Add new page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:203
+#, fuzzy
+msgid "View base page"
+msgstr "Springest Base Page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:208
+msgid "Taxonomies for relations"
+msgstr "Taxonomies for relations"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:223
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:427
+msgid "Save changes"
+msgstr "Save changes"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:279
+msgid "Edit Springest group: "
+msgstr "Edit Springest group: "
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:282
+msgid "Add new Springest group"
+msgstr "Add new Springest group"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:286
+msgid "New group created"
+msgstr "New group created"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:289
+msgid "Group settings saved"
+msgstr "Group settings saved"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:296
+msgid "Back to groups overview"
+msgstr "Back to groups overview"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:299
+msgid "group_edit_explanation"
+msgstr "Here you can edit the group: make sure you provide a descriptive title and an informative description to optimize your page for search engines."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:308
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:453
+msgid "Name"
+msgstr "Name"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:314
+msgid "Slug"
+msgstr "Slug"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:320
+msgid "Description"
+msgstr "Description"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:357
+#, fuzzy
+msgid "Add new search string"
+msgstr "Add new page"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:360
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:88
+msgid "Title"
+msgstr "Title"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:362
+msgid "e.g. \"Web development\""
+msgstr "e.g. \"Web development\""
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:366
+#, fuzzy
+msgid "Search string"
+msgstr "Search trainings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:368
+msgid "e.g. \"HTML CSS PHP WordPress\""
+msgstr "e.g. \"HTML CSS PHP WordPress\""
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:374
+#, fuzzy
+msgid "Add search string"
+msgstr "Search trainings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:378
+#, fuzzy
+msgid "Search strings in this group"
+msgstr "Search trainings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:384
+msgid "remove"
+msgstr "remove"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:393
+msgid "This group does not contain any search strings"
+msgstr "This group does not contain any search strings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:405
+msgid "Related"
+msgstr "Related"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:418
+#, php-format
+msgid "No %s available"
+msgstr "No %s available"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:442
+msgid "Springest groups"
+msgstr "Springest groups"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:442
+msgid "Add new"
+msgstr "Add new"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:472
+msgid "Are you sure you want to delete this group?"
+msgstr "Are you sure you want to delete this group?"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:474
+#, fuzzy
+msgid "delete"
+msgstr "Related"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest-admin.php:483
+msgid "No groups"
+msgstr "No groups"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest.php:35
+msgid "the Netherlands"
+msgstr "the Netherlands"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest.php:40
+msgid "Belgium, Dutch"
+msgstr "Belgium, Dutch"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest.php:45
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/springest.php:50
+msgid "Germany"
+msgstr "Germany"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestApi.inc.php:86
+msgid "Unknown error"
+msgstr "Unknown error"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestApi.inc.php:131
+msgid "No categories found"
+msgstr "No categories found"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:101
+msgid "DEFAULT_API_URL"
+msgstr "DEFAULT_API_URL"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:115
+msgid "Please log in as an admin to use this feature."
+msgstr "Please log in as an admin to use this feature."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:275
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:286
+#, php-format
+msgid "Searched for %s"
+msgstr "Searched for %s"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:280
+#, fuzzy, php-format
+msgid "Search for \"%s\""
+msgstr "Searched for %s"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:313
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:67
+msgid "Search trainings"
+msgstr "Search trainings"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:317
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:71
+msgid "Search"
+msgstr "Search"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:472
+msgid "<strong>Warning:</strong> You need to <a href=\"options-general.php?page=springest-settings\">select the base page for your Springest installation</a>."
+msgstr "<strong>Warning:</strong> You need to <a href=\"options-general.php?page=springest-settings\">select the base page for your Springest installation</a>."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:570
+msgid "Find and compare training programmes and courses - Springest"
+msgstr "Find and compare training programmes and courses - Springest"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestHelper.inc.php:571
+#, php-format
+msgid "In cooperation with <a href=\"%s\">%s</a>"
+msgstr "In cooperation with <a href=\"%s\">%s</a>"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:32
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:107
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:113
+msgid "Total time: "
+msgstr "Total time: "
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:35
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:110
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:116
+msgid "Level: "
+msgstr "Level: "
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:38
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:113
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:119
+msgid "Rating: "
+msgstr "Rating: "
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:38
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:113
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:119
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:78
+msgid "1 review"
+msgstr "1 review"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:38
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:113
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:119
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:78
+#, php-format
+msgid "%d reviews"
+msgstr "%d reviews"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:54
+msgid "Your search did not match any results."
+msgstr "Your search did not match any results."
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:99
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:147
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:153
+msgid "Previous"
+msgstr "Previous"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearch.inc.php:103
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSearchString.inc.php:151
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestSubject.inc.php:157
+msgid "Next"
+msgstr "Next"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:34
+msgid "1 day"
+msgstr "1 day"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:34
+#, php-format
+msgid "%s days"
+msgstr "%s days"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:50
+msgid "Institute"
+msgstr "Institute"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:54
+msgid "Price"
+msgstr "Price"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:59
+msgid "Level"
+msgstr "Level"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:65
+msgid "Max. participants"
+msgstr "Max. participants"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:71
+msgid "Total time"
+msgstr "Total time"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:77
+msgid "Rating"
+msgstr "Rating"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:86
+msgid "More information"
+msgstr "More information"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestTraining.inc.php:89
+msgid "Request information"
+msgstr "Request information"
+
+#: /Users/martijnscheybeler/Sites/springest/WordPress-Plugin/inc/SpringestWidget.inc.php:89
+msgid "Display search box"
+msgstr "Display search box"
+
+#~ msgid "Springest API URL"
+#~ msgstr "Springest API URL"
+
+#~ msgid "Add subjects"
+#~ msgstr "Add subjects"
+
+#~ msgid "Select a course category..."
+#~ msgstr "Select a course category..."
+
+#~ msgid "Course subjects"
+#~ msgstr "Course subjects"
+
+#~ msgid "No subjects selected"
+#~ msgstr "No subjects selected"
